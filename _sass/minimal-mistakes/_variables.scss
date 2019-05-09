@@ -6,7 +6,7 @@
    Typography
    ========================================================================== */
 
-$doc-font-size: 16 !default;
+$doc-font-size: 10 !default;
 
 /* paragraph indention */
 $paragraph-indent: false !default; // true, false (default)
@@ -39,8 +39,8 @@ $type-size-2: 1.953em !default; // ~31.248px
 $type-size-3: 1.563em !default; // ~25.008px
 $type-size-4: 1.25em !default; // ~20px
 $type-size-5: 1em !default; // ~16px
-$type-size-6: 0.75em !default; // ~12px
-$type-size-7: 0.6875em !default; // ~11px
+$type-size-6: 0.87em !default; // ~12px
+$type-size-7: 0.77em !default; // ~11px
 $type-size-8: 0.625em !default; // ~10px
 
 /*
@@ -48,7 +48,7 @@ $type-size-8: 0.625em !default; // ~10px
    ========================================================================== */
 
 $gray: #7a8288 !default;
-$dark-gray: mix(#000, $gray, 40%) !default;
+$dark-gray: mix(rgb(17, 17, 17), $gray, 40%) !default;
 $darker-gray: mix(#000, $gray, 60%) !default;
 $light-gray: mix(#fff, $gray, 50%) !default;
 $lighter-gray: mix(#fff, $gray, 90%) !default;
@@ -84,6 +84,7 @@ $facebook-color: #3b5998 !default;
 $flickr-color: #ff0084 !default;
 $foursquare-color: #0072b1 !default;
 $github-color: #171516 !default;
+$wechat-color: rgb(22, 22, 22) !default;
 $gitlab-color: #e24329 !default;
 $instagram-color: #517fa4 !default;
 $lastfm-color: #d51007 !default;

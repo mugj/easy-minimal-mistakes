@@ -227,6 +227,10 @@ body:hover .visually-hidden button {
     color: $facebook-color;
   }
 
+  .fa-weixin {
+    color:$wechat-color;
+  }
+
   .fa-flickr {
     color: $flickr-color;
   }
@@ -239,6 +243,10 @@ body:hover .visually-hidden button {
   .fa-github-alt,
   .fa-github-square {
     color: $github-color;
+  }
+
+  .fa-weixin {
+    color: $wechat-color;
   }
 
   .fa-gitlab {
@@ -316,6 +324,7 @@ body:hover .visually-hidden button {
   .fa-xing-square {
     color: $xing-color;
   }
+
 }
 
 /*
