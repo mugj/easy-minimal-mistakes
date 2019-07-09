@@ -44,8 +44,8 @@ author:
 
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Site Title"
+locale                   : "zh-CN"
+title                    : "Loser&Five"
 title_separator          : "-"
 name                     : "Your Name"
 description              : "An amazing website."
